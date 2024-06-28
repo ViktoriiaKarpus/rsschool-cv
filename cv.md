@@ -5,8 +5,8 @@
 ## **Junior Frontend Developer**
 
 ## **Contacts**
-- **Phone:** +32 \470 \**-\**-\**
-- **Email:** viktoriaK@rambler.ru
+- **Phone:** +32 - 470 - **- ** - **
+- **Email:** ViktoriyaK@yandex.ru
 - **GitHub:** [ViktoriiaKarpus](https://github.com/ViktoriiaKarpus)
 
 ## **About Myself**
@@ -30,6 +30,7 @@ I possess strong interpersonal skills and excel in collaborative team environmen
 
 ## **Courses**
 - RS Schools «JavaScript/Front-end. Stage 0»
+- QA Engineer RedRowerSchool
 
 ## **Code Example**
 ```javascript
