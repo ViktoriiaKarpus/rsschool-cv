@@ -1,3 +1,41 @@
 body {
-    background-color: violet;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    padding: 20px;
+    background-color: #f4f4f4;
 }
+
+h1, h2, h4 {
+    color: #333;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 5px 0;
+}
+
+pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+}
+
